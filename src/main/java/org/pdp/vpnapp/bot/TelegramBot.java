@@ -11,7 +11,7 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 
 @Component
 public class TelegramBot extends TelegramLongPollingBot {
-    private static final String URL = "http://localhost:8080/redirect/";
+    private static final String URL = "https://loved-basilisk-magnetic.ngrok-free.app/redirect/";
     private static final String BOT_TOKEN = "6674985300:AAFgJYmO42YggQBFBY1450zkkHmZj7QZGjM";
     private static final String USERNAME = "pdp_test_maker_bot";
 
